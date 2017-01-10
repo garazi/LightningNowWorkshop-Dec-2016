@@ -12,20 +12,20 @@ This repo contains all of the necessary source files for the Salesforce Lightnin
 
 ##Agenda
 
-###[Exercise 1](https://github.com/garazi/LightningNowWorkshop/tree/exercise-1) - Adding a Visualforce page to the Lightning Experience
+###[Exercise 1](https://github.com/garazi/LightningNowWorkshop-Dec-2016/tree/exercise-1) - Adding a Visualforce page to the Lightning Experience
 
-###[Exercise 2](https://github.com/garazi/LightningNowWorkshop/tree/exercise-2) - Adding Salesforce Lighting Design System to a Visualforce page
+###[Exercise 2](https://github.com/garazi/LightningNowWorkshop-Dec-2016/tree/exercise-2) - Adding Salesforce Lighting Design System to a Visualforce page
 
-###[Exercise 3](https://github.com/garazi/LightningNowWorkshop/tree/exercise-3) - Using Salesforce Lighting Design System markup
+###[Exercise 3](https://github.com/garazi/LightningNowWorkshop-Dec-2016/tree/exercise-3) - Using Salesforce Lighting Design System markup
 
-###[Exercise 4](https://github.com/garazi/LightningNowWorkshop/tree/exercise-4) – Using a Visualforce page in a Lightning Experience page
+###[Exercise 4](https://github.com/garazi/LightningNowWorkshop-Dec-2016/tree/exercise-4) – Using a Visualforce page in a Lightning Experience page
 
-###[Exercise 5 (Optional)](https://github.com/garazi/LightningNowWorkshop/tree/exercise-5) - Creating a Lightning Component
+###[Exercise 5 (Optional)](https://github.com/garazi/LightningNowWorkshop-Dec-2016/tree/exercise-5) - Creating a Lightning Component
 
-###[Exercise 6](https://github.com/garazi/LightningNowWorkshop/tree/exercise-6) - Converting a Visualforce page to a Lightning Component
+###[Exercise 6](https://github.com/garazi/LightningNowWorkshop-Dec-2016/tree/exercise-6) - Converting a Visualforce page to a Lightning Component
 
-###[Exercise 7](https://github.com/garazi/LightningNowWorkshop/tree/exercise-7) - Building a Quick Prospect component
+###[Exercise 7](https://github.com/garazi/LightningNowWorkshop-Dec-2016/tree/exercise-7) - Building a Quick Prospect component
 
-###[Exercise 8 (Advanced)](https://github.com/garazi/LightningNowWorkshop/tree/exercise-8) - Making a Lightning Component Context-aware
+###[Exercise 8 (Advanced)](https://github.com/garazi/LightningNowWorkshop-Dec-2016/tree/exercise-8) - Making a Lightning Component Context-aware
 
-###[Exercise 9 (Advanced)](https://github.com/garazi/LightningNowWorkshop/tree/exercise-9) - Leveraging Lightning Data Services in a Lightning Component
+###[Exercise 9 (Advanced)](https://github.com/garazi/LightningNowWorkshop-Dec-2016/tree/exercise-9) - Leveraging Lightning Data Services in a Lightning Component
